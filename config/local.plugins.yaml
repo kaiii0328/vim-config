@@ -22,10 +22,10 @@
     let g:indentLine_bufNameExclude = ['NERD_tree.*', 'defx', 'startify', '__vista__']
     let g:indentLine_fileTypeExclude = ['defx', '__vista__', 'help', 'clap_input', 'tagbar', 'vista_kind']
 
-- repo: neoclide/coc.nvim
-  merge: 0
-  rev: release
-  hook_add: source $VIM_PATH/config/plugins/coc.vim
+#- repo: neoclide/coc.nvim
+#  merge: 0
+#  rev: release
+#  hook_add: source $VIM_PATH/config/plugins/coc.vim
 
 # tencent jce file
 - { repo: tenfyzhong/jce-highlight, on_ft: jce}

@@ -5,7 +5,7 @@
 
 # Startup
 # -------
-- repo: Shougo/dein.vim
+#- repo: Shougo/dein.vim
 - repo: thinca/vim-localrc
 - repo: Shougo/context_filetype.vim
 - repo: jaawerth/nrun.vim
